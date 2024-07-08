@@ -1,2 +1,2 @@
 # internship-task-1
-this is the task 1 : todo-list
+this is the task 1 : todo-list using python
