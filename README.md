@@ -4,4 +4,4 @@ this is the task 1 : todo-list using python
 
 
 ## components and tools:     
-<img src="https://skillicons.dev/icons?i=python,supabase" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
